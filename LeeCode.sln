@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3SumCloseSet", "3SumCloseSet\3SumCloseSet\3SumCloseSet.vcxproj", "{5055C241-908E-49AB-AFFE-301C367B6D45}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryTreePaths", "BinaryTreePaths\BinaryTreePaths\BinaryTreePaths.vcxproj", "{A9E61C99-E464-4844-886D-937AD891B782}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "excel_sheet_name", "excel_sheet_name\excel_sheet_name\excel_sheet_name.vcxproj", "{A3E86A1B-FC17-4F36-A012-3C086FF56021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5055C241-908E-49AB-AFFE-301C367B6D45}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5055C241-908E-49AB-AFFE-301C367B6D45}.Debug|Win32.Build.0 = Debug|Win32
+		{5055C241-908E-49AB-AFFE-301C367B6D45}.Release|Win32.ActiveCfg = Release|Win32
+		{5055C241-908E-49AB-AFFE-301C367B6D45}.Release|Win32.Build.0 = Release|Win32
+		{A9E61C99-E464-4844-886D-937AD891B782}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A9E61C99-E464-4844-886D-937AD891B782}.Debug|Win32.Build.0 = Debug|Win32
+		{A9E61C99-E464-4844-886D-937AD891B782}.Release|Win32.ActiveCfg = Release|Win32
+		{A9E61C99-E464-4844-886D-937AD891B782}.Release|Win32.Build.0 = Release|Win32
+		{A3E86A1B-FC17-4F36-A012-3C086FF56021}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3E86A1B-FC17-4F36-A012-3C086FF56021}.Debug|Win32.Build.0 = Debug|Win32
+		{A3E86A1B-FC17-4F36-A012-3C086FF56021}.Release|Win32.ActiveCfg = Release|Win32
+		{A3E86A1B-FC17-4F36-A012-3C086FF56021}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
